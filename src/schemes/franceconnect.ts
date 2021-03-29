@@ -237,7 +237,6 @@ export class Oauth2Scheme<
     _opts: { state?: string; params?; nonce?: string } = {}
   ): Promise<void> {
     const opts = {
-      protocol: 'oauth2',
       response_type: this.options.responseType,
       access_type: this.options.accessType,
       client_id: this.options.clientId,
