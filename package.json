@@ -1,8 +1,8 @@
 {
-  "name": "@nuxtjs/auth",
+  "name": "@wirlax/auth",
   "version": "5.0.0-dev",
   "description": "Authentication module for Nuxt.js",
-  "repository": "nuxt-community/auth-module",
+  "repository": "Wirlax/auth-module",
   "license": "MIT",
   "sideEffects": "false",
   "exports": {
